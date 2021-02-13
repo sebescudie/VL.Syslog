@@ -180,11 +180,6 @@
             </Node>
             <ControlPoint Id="HOq6d1gfKe0P2RY1z9emJw" Bounds="472,334" />
           </Canvas>
-          <!--
-
-    ************************  ************************
-
--->
           <ProcessDefinition Id="O9wAJyVwVRMLqbH2hqLJ6H">
             <Fragment Id="MqiY0Mr42xgMwG7AnaXGmb" Patch="Q1p2wEN2cA9LDrknvKjTpa" Enabled="true" />
             <Fragment Id="S6HlqtNzSJ9McY9Kjv0Peq" Patch="S386RS9HOzgN23si8fBIxg" Enabled="true" />
@@ -268,11 +263,6 @@
             </Node>
             <ControlPoint Id="BaliebU7mNFMqcYTCJDnVI" Bounds="456,367" />
           </Canvas>
-          <!--
-
-    ************************  ************************
-
--->
           <ProcessDefinition Id="D4fiCOw7qTbOAcADltyf8C">
             <Fragment Id="VrS7CRm5XWiPn3ZlaHmXZp" Patch="LjtG2TJRyzDOWPn14VEpgq" Enabled="true" />
             <Fragment Id="C7MVgEal0pTNn53fHcgpAl" Patch="Al76cFrJpooOoPUYTaVsnh" Enabled="true" />
@@ -356,11 +346,6 @@
             </Node>
             <ControlPoint Id="OvBlIQE3x7zMPipgLwZ3hI" Bounds="564,402" />
           </Canvas>
-          <!--
-
-    ************************  ************************
-
--->
           <ProcessDefinition Id="O41wGOeCv5oMye1LiZxmc5">
             <Fragment Id="TLtDbvPJzahNWO4RgfKmu1" Patch="K9VyFYR42oyMcTqj8bnTMN" Enabled="true" />
             <Fragment Id="JTZe8F0lDTjLmEq8u7I0wH" Patch="HP2tfpDqL6RMPNKupJObkq" Enabled="true" />
@@ -444,11 +429,6 @@
             </Node>
             <ControlPoint Id="CzgBKTRRd0XO5FkwiIT7NE" Bounds="476,317" />
           </Canvas>
-          <!--
-
-    ************************  ************************
-
--->
           <ProcessDefinition Id="V0jZNQCrcmYLdwt7egED2X">
             <Fragment Id="MroMZ4Hhuo4LJqj2T3GtI7" Patch="AEfpiDU6YPyO5dFR3olqlH" Enabled="true" />
             <Fragment Id="DXSrathICZDLCaTBNk4Tjc" Patch="IOApvQz7JOuQN09Kvxelh7" Enabled="true" />
@@ -532,11 +512,6 @@
             </Node>
             <ControlPoint Id="TOaFYdVG9qnOQDBijyQ9YQ" Bounds="518,352" />
           </Canvas>
-          <!--
-
-    ************************  ************************
-
--->
           <ProcessDefinition Id="SuOVvG1QUj0Obti0bOuiJY">
             <Fragment Id="QB7cbLsMRBBOqF3p8NtIsB" Patch="VYlRcgNIU1ZQHmyUzBNQYr" Enabled="true" />
             <Fragment Id="TXwyiXWwELJMXWDIIvEYoi" Patch="Edkfrf2ZGd0PfMCth0cfJE" Enabled="true" />
@@ -622,11 +597,6 @@
             </Node>
             <ControlPoint Id="QWIMI0ob6NNMpGU1fY34uJ" Bounds="353,208" />
           </Canvas>
-          <!--
-
-    ************************  ************************
-
--->
           <ProcessDefinition Id="PNDLxlULx3jPhTBowITGXc">
             <Fragment Id="CxyrkJ9PbVKLbYtVadXjr0" Patch="Pd3m9Bt4Yf3MEzDk7O4wMg" Enabled="true" />
             <Fragment Id="GAxbCc3kUZZMiwacT8ZCyt" Patch="HYvAdOzHqZZQP2iv1RCASH" Enabled="true" />
@@ -717,11 +687,6 @@
             </Node>
             <ControlPoint Id="SyCRxot47GbOV06T1eLCtf" Bounds="436,254" />
           </Canvas>
-          <!--
-
-    ************************  ************************
-
--->
           <ProcessDefinition Id="SrpBol0pDmsMWNNULNXnUc">
             <Fragment Id="Oq7nDMGLMusOUap3unOcNB" Patch="SWXiTj4rulTQV9nvcpoymg" Enabled="true" />
             <Fragment Id="EBRIqWE2PgAN8dcUExnr5c" Patch="GzVw4kpm5zmMBA6hsdJmYj" Enabled="true" />
@@ -813,11 +778,6 @@
             </Node>
             <ControlPoint Id="Djgj2u4Ln6wMW4hNMVpBHn" Bounds="373,379" />
           </Canvas>
-          <!--
-
-    ************************  ************************
-
--->
           <ProcessDefinition Id="JEOGdqgx7s9OGJsrAwNsFY">
             <Fragment Id="KqtFdowHxEINxD95esCEcG" Patch="QXb25JjAtZ2MeuShBXTkPq" Enabled="true" />
             <Fragment Id="RzjYjiYtRJ4OKWlm9GVYWl" Patch="VAnyhkBZl4jMaADI26it3J" Enabled="true" />
@@ -937,11 +897,6 @@
             </Pin>
             <Pin Id="S2IKFEq67HeMc0EOM2cQuN" Name="File Logging Mode" Kind="InputPin" Bounds="454,537" />
           </Patch>
-          <!--
-
-    ************************  ************************
-
--->
           <ProcessDefinition Id="RhDPZmivHjQLVuNhgvcGKf">
             <Fragment Id="NqOFgviIpuBLSzXcFhLZUa" Patch="Cwb6X1lBz2FNtiKxkYzpKV" Enabled="true" />
             <Fragment Id="TFH6wFhastPNM6MuboB0ZJ" Patch="RJVqZFeP9Z3POZzMAshsWW" Enabled="true" />
@@ -958,6 +913,42 @@
           <Link Id="JfYHsymYbpRNuoNfEhJbQ1" Ids="S2IKFEq67HeMc0EOM2cQuN,TUEYGQfHOoiOGSOomGwDEK" IsHidden="true" />
           <Link Id="EPj67nUazyLLAozDCdSVCz" Ids="TUEYGQfHOoiOGSOomGwDEK,GloNhoNcKF7Oz4qz1T7jro" />
           <Link Id="LppUO29s1mQOSaNtbbLnKV" Ids="GloNhoNcKF7Oz4qz1T7jro,GidxYl0xPvVP8D9JecWkxh" />
+        </Patch>
+      </Node>
+      <!--
+
+    ************************ Severity ************************
+
+-->
+      <Node Name="Severity" Bounds="196,570" Id="F80k8ImyWM3NRyig04IqF0">
+        <p:NodeReference>
+          <Choice Kind="ForwardRecordDefinition" Name="Immutable Forward" />
+          <FullNameCategoryReference ID="Primitive" />
+        </p:NodeReference>
+        <p:TypeAnnotation LastCategoryFullName="SyslogLogging" LastSymbolSource="LoggingModule.dll">
+          <Choice Kind="TypeFlag" Name="Severity" />
+        </p:TypeAnnotation>
+        <Patch Id="KyjqdfbIZAYPY9uXXHRCBp">
+          <Canvas Id="RrmvfR7fvC1O9ki2D5RS7z" BordersChecked="false" CanvasType="Group" />
+          <ProcessDefinition Id="GOYKwi1kMAhPPv0lX1sEpk" IsHidden="true" />
+        </Patch>
+      </Node>
+      <!--
+
+    ************************ FileLoggingMode ************************
+
+-->
+      <Node Name="FileLoggingMode" Bounds="330,570" Id="MAuxgNbdukpPALYwpFjDfm">
+        <p:NodeReference>
+          <Choice Kind="ForwardRecordDefinition" Name="Immutable Forward" />
+          <FullNameCategoryReference ID="Primitive" />
+        </p:NodeReference>
+        <p:TypeAnnotation LastCategoryFullName="SyslogLogging" LastSymbolSource="LoggingModule.dll">
+          <Choice Kind="TypeFlag" Name="FileLoggingMode" />
+        </p:TypeAnnotation>
+        <Patch Id="Tq1dM647wCnPefko0m4U9r">
+          <Canvas Id="LL8xLNBUf4tL3RhgUPU7bu" BordersChecked="false" CanvasType="Group" />
+          <ProcessDefinition Id="FGESy8vw8QAMP96uDaZvvu" IsHidden="true" />
         </Patch>
       </Node>
     </Canvas>
